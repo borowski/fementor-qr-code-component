@@ -22,10 +22,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshots
 
 Desktop:
-  ![](./images/desktop_screenshot.jpg)
+  ![](./images/desktop_screenshot.png)
 
 Mobile:
-    ![](./images/mobile_screenshot.jpg)
+  ![](./images/mobile_screenshot.png)
 
 ### Links
 
